@@ -1,7 +1,7 @@
 import requests
 import psycopg2
 from fetch_spoti_token import get_token, get_auth_header
-from bpm_comparator import compare_bpm  # Assuming bpm_comparator.py contains the compare_bpm function
+from bpm_comparator import compare_bpm  
 from dotenv import load_dotenv
 import os
 
