@@ -1,0 +1,10 @@
+hackathon feedback
+
+* Technology 7/8 : This project integrates the Spotify API for fetching song data, uses the PostgreSQL database for storing information, and includes a comparison algorithm. The implementation shows significant technical complexity, including API integration and database operations.
+* Completion 8/8 : The project is fully functional, allowing users to enter song details, retrieve and compare BPM against the specified range, and save results to a database.
+* Learning 7/8 : high significant learning effort, including the use of requests for API calls, working with the Spotify API, using psycopg2 for PostgreSQL database interaction, and implementing environment variables for security.
+Total : 22/24
+
+Overall, excellent project, you demonstrate a strong grasp of the technologies involved and the ability to implement a complex project effectively.
+
+Well done !
